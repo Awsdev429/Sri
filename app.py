@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Simple 20-Line Page</title>
+    <title>Simple 30-Line Page</title>
 </head>
 <body>
     <h1>Welcome to My Simple Page</h1>
