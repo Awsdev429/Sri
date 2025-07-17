@@ -16,7 +16,7 @@
 
     <p>Visit <a href="https://www.example.com" target="_blank">Example.com</a> for more info.</p>
 
-    <h3>Thank you for visiting!</h3>
+    <h3>Thank you choosing me!</h3>
 </body>
 </html>
 
